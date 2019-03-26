@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bad99dff769c9bc4891396f13c301c43, type: 3}
+  m_Name: Ortho Zoom Operation
+  m_EditorClassIdentifier: 
+  horizontalAxis: 0
+  verticalAxis: 0
+  currentAnchoredPosition: {x: 0, y: 0}
+  mouseAxis: 0
+  tempVar: 0
+  panBool: {fileID: 11400000, guid: caf92606e4a0ce9468df92de4e406191, type: 2}
+  zoomBool: {fileID: 11400000, guid: cdaae74377934c6449f3f7ab5116358a, type: 2}
+  followModeOn: {fileID: 11400000, guid: bd531819ecb437c459ad5217c0848e94, type: 2}
+  cameraTransEvent: {fileID: 11400000, guid: 65b5814efe36a4a4a91972a65015bc12, type: 2}
+  runtimeVector2: {fileID: 11400000, guid: 71e3ef5b8045bc0459a405ae3b754bac, type: 2}
+  runtimeVector3: {fileID: 11400000, guid: cb6d987fd5e6d644eab6a2971599ab2b, type: 2}
+  orthoScaledSizeFromTexture: {fileID: 11400000, guid: 40cffd3d9140e6242990a3ec5256a517,
+    type: 2}
+  amount: {fileID: 11400000, guid: ad662b06954d36946a96da905576219d, type: 2}
+  targetString: 
