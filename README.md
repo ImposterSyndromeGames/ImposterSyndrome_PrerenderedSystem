@@ -6,10 +6,10 @@ Credits:
 
 Athos Kele (sharp accent) For most if not all of the coding style, without his tutorials and frameworks this would not be possible.
 
-Scriptable Object Library
+ - Scriptable Object Library
 
-Behaviour Editor
+ - Behaviour Editor
  
 Florian Mehm (SpookyFM) For the depth shaders in the below repository. 
 
-DepthCompositing.
+ - DepthCompositing.
