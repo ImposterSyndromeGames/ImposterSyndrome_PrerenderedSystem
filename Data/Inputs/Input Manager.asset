@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ae5485786f6548448a88df99f77e82a, type: 3}
+  m_Name: Input Manager
+  m_EditorClassIdentifier: 
+  horizontal: {fileID: 11400000, guid: 4e0cea01fb95f46438a11c4a171f1db0, type: 2}
+  vertical: {fileID: 11400000, guid: 8f6f94c135681224a9435c659f471232, type: 2}
+  jump: {fileID: 0}
+  playerStates: {fileID: 0}
+  inputUpdateBatch: {fileID: 11400000, guid: 2c370e5f305e7f84eb39348f93f6d1fb, type: 2}
