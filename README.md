@@ -13,3 +13,7 @@ Athos Kele (sharp accent) For most if not all of the coding style, without his t
 Florian Mehm (SpookyFM) For the depth shaders in the below repository. 
 
  - DepthCompositing.
+
+Project Requirements:
+
+ - Has issues with antialiasing, turn antialiasing off. "Go to Projects Settings/Quality/" to tweak settings, (img1).
