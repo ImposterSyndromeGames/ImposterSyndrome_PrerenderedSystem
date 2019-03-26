@@ -17,6 +17,8 @@ Florian Mehm (SpookyFM) For the depth shaders in the below repository.
 
 Project Requirements:
 
+ - Place everything into your assets folder.
+
  - Has issues with antialiasing, turn antialiasing off. "Go to Projects Settings/Quality/" to tweak settings, (img1).
  
  - No changes to Projects Settings/Input/ have taken place.
@@ -35,6 +37,6 @@ Roadmap:
  
  - The system uses Maya as the main application for creating the prerendered backgrounds, some other applications will be explored.
  
- - Scaled Ortho Textures (In the IsometricOrtho mode the orthographic camera size scales based on screen width, this is not always ideal.
+ - Scaled Ortho Textures (In the IsometricOrtho mode the orthographic camera size scales based on screen width, this is not always ideal).
  
  - Shader Development, realtime prerendered lighting. (Probably the last thing that will happen).
