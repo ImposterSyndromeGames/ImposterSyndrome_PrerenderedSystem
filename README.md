@@ -1,7 +1,7 @@
 # ImposterSyndrome_PrerenderedSystem
 This is a framework for prerendered graphics in Unity. (WIP)
 This guide is a work in progress, however it will be greatly expanded in future.
-All the prerendered backgrounds are rendered in Autodesk Maya.
+All the prerendered backgrounds are rendered in Autodesk Maya. I have been working on this system since December 2018, it has been a long journey but it is finally time to share it with the world.
 
 Credits:
 
