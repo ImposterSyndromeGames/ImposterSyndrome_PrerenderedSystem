@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5398eed3691e3949b909cf0fd374cee, type: 3}
+  m_Name: Isometric Ortho_Container
+  m_EditorClassIdentifier: 
+  isAnimated: 0
+  referenceOrthoSizeMaya: 50
+  FloatForNearClip: 5
+  FloatForFarClip: 85
+  depthTexture: {fileID: 2800000, guid: 50c2edb08c12cce49b3356224dcd7339, type: 3}
+  renderedTexture: {fileID: 2800000, guid: 5a50eba06840af34e82185afab7347fa, type: 3}
+  CameraPosition: {x: -25, y: 20.42, z: 25}
+  CameraRotation: {x: 30.00922, y: 135, z: 0}
+  depthTextureSequence: []
+  renderedTextureSequence: []
+  floatForCoroutineAnimation: 0
+  isLoopableAnimation: 0
+  containsTransitionScene: 0
+  widthFromTexture: 2560
+  heightFromTexture: 1440
+  multiplierFromTexture: 2
+  secondMultiplierFromTexture: 4
+  orthoSizeFromTexture: 7.02
+  orthoRatioForZoom: 2
+  aspectRatio: 1.7777778
+  xAnchoredOffset: 1280
+  yAnchoredOffset: 720
+  xOffset: 12.5
+  yOffset: 7.03125
+  rayXOffset: 160
+  rayYOffset: 90
+  rectSizeMult1: 0
+  rectSizeScalar: 1

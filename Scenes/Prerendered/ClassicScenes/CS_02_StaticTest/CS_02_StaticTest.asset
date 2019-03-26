@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49287c373694f842a0ada2f73f90fdd, type: 3}
+  m_Name: CS_02_StaticTest
+  m_EditorClassIdentifier: 
+  isAnimatedContainer: 0
+  angleOfViewFromMaya: 54.43
+  FloatForNearClip: 1
+  FloatForFarClip: 40
+  RenderedTextureBoi: {fileID: 2800000, guid: e2a006a87dec9634e863bfd943557c3e, type: 3}
+  DepthTextureBoi: {fileID: 2800000, guid: d44055fab73856347b48f72c8c749879, type: 3}
+  CameraPosition: {x: -16, y: 5, z: 16}
+  CameraRotation: {x: 0, y: 135, z: 0}
+  AngleOfViewForTransitionSequence: []
+  NearClipForTransitionSequence: []
+  FarClipForTransitionSequence: []
+  RenderedTextureBoiSequence: []
+  DepthTextureBoiSequence: []
+  floatForCoroutineAnimation: 0
+  isLoopableAnimation: 0
+  containsTransitionScene: 0
+  cameraPositionsForTransitionSequence: []
+  cameraRotationsForTransitionSequence: []
+  scrollViewWidth: 0
+  scrollViewHeight: 0
+  widthFromTexture: 1280
+  heightFromTexture: 720
+  FOVValue: 32.26734
+  FOVValueForTransitionSequence: []
+  multiplierFromTexture: 0
+  secondMultiplierFromTexture: 0
+  orthoSizeFromTexture: 0
+  orthoScaledSizeFromTexture: 0
+  orthoRatioForZoom: 0
+  aspectRatio: 0
+  xAnchoredOffset: 0
+  yAnchoredOffset: 0
+  xOffset: 0
+  yOffset: 0
+  rayXOffset: 0
+  rayYOffset: 0

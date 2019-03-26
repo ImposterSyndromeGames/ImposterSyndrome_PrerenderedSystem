@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49287c373694f842a0ada2f73f90fdd, type: 3}
+  m_Name: ClassicDebug
+  m_EditorClassIdentifier: 
+  isAnimatedContainer: 1
+  angleOfViewFromMaya: 54.43
+  FloatForNearClip: 1
+  FloatForFarClip: 40
+  RenderedTextureBoi: {fileID: 2800000, guid: ee192a89c0943da4885a949bdccafc3d, type: 3}
+  DepthTextureBoi: {fileID: 2800000, guid: 396ba65f2f2120d4db641da637c3848b, type: 3}
+  CameraPosition: {x: -12, y: 9, z: -6}
+  CameraRotation: {x: 15, y: 49, z: 0}
+  AngleOfViewForTransitionSequence:
+  - 54.43
+  - 60
+  - 70
+  NearClipForTransitionSequence:
+  - 1
+  - 1
+  - 1
+  FarClipForTransitionSequence:
+  - 40
+  - 40
+  - 40
+  RenderedTextureBoiSequence:
+  - {fileID: 2800000, guid: ee192a89c0943da4885a949bdccafc3d, type: 3}
+  - {fileID: 2800000, guid: ea01d9342caa33f4c864550bff571ed4, type: 3}
+  - {fileID: 2800000, guid: a655b9d17a877bd4b80d64266e1d1ff7, type: 3}
+  DepthTextureBoiSequence:
+  - {fileID: 2800000, guid: 396ba65f2f2120d4db641da637c3848b, type: 3}
+  - {fileID: 2800000, guid: a61eb9a3e59a3c54bae6eeb0d1588eae, type: 3}
+  - {fileID: 2800000, guid: c3120560275c3e14bb6086c53bf55aab, type: 3}
+  floatForCoroutineAnimation: 1
+  isLoopableAnimation: 1
+  containsTransitionScene: 1
+  cameraPositionsForTransitionSequence:
+  - {x: -12, y: 9, z: -6}
+  - {x: -12, y: 9, z: -6}
+  - {x: -12, y: 9, z: -6}
+  cameraRotationsForTransitionSequence:
+  - {x: 15, y: 49, z: 0}
+  - {x: 15, y: 49, z: 0}
+  - {x: 15, y: 49, z: 0}
+  scrollViewWidth: 0
+  scrollViewHeight: 0
+  widthFromTexture: 1280
+  heightFromTexture: 720
+  FOVValue: 32.26734
+  FOVValueForTransitionSequence:
+  - 32.26734
+  - 35.983395
+  - 42.99566
+  multiplierFromTexture: 0
+  secondMultiplierFromTexture: 0
+  orthoSizeFromTexture: 0
+  orthoScaledSizeFromTexture: 0
+  orthoRatioForZoom: 0
+  aspectRatio: 0
+  xAnchoredOffset: 0
+  yAnchoredOffset: 0
+  xOffset: 0
+  yOffset: 0
+  rayXOffset: 0
+  rayYOffset: 0
