@@ -17,3 +17,5 @@ Florian Mehm (SpookyFM) For the depth shaders in the below repository.
 Project Requirements:
 
  - Has issues with antialiasing, turn antialiasing off. "Go to Projects Settings/Quality/" to tweak settings, (img1).
+ 
+ - No changes to Projects Settings/Input/ have taken place.
