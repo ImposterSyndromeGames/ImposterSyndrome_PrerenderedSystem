@@ -27,9 +27,9 @@ Description:
 
  There are two systems present in this project.
  
- - Classic System (An old school resident evil 1-3 / final fantasy 7-9 system for prerendered perspective backgrounds). Contains two prefabs, an action hook that turns on the classic system in the scene, and a prefab that uses OnEnterTrigger() to switch the camera.
+ - Classic System (An old school resident evil 1-3 / final fantasy 7-9 system for prerendered perspective backgrounds). Contains two prefabs, an action hook that turns on the classic system in the scene, and a prefab that uses OnEnterTrigger() to switch the camera. Primitive player controller, requires rigidbody for view switching.
  
- - IsometricOrtho System (An old school Baldur's gate/Infinity Engine style system for prerendered orthographic backgrounds). Contains one prefab, and action hook that turns on the isometric system in the scene. This IsometricOrtho mode works but is still a work in progress.
+ - IsometricOrtho System (An old school Baldur's gate/Infinity Engine style system for prerendered orthographic backgrounds). Contains one prefab, and action hook that turns on the isometric system in the scene. This IsometricOrtho mode works but is still a work in progress. Contains several operations for the camera including: Panning, Zooming, Click to Move, Follow click to move "press (f) to toggle on or off".
  
 Roadmap:
 
